@@ -7,7 +7,7 @@
 ## Тема: Репортинг: Report Portal
 
 - Настройка Allure, интегрированного с Selenide
-- Настройка ReportPortal 
+
 
 # Инструкция по настройке Allure
 1. В проекте в build.gradle прописать  
